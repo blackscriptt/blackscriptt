@@ -12,8 +12,8 @@
 <br><br>
 
 <h3>🏆 Github Profile Trophy</h3>
-<p width="100%" align="center">
-  <a  href="https://github.com/ryo-ma/github-profile-trophy">
+<p width="100%">
+  <a width="100%" align="center"  href="https://github.com/ryo-ma/github-profile-trophy">
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=blackscriptt&column=8&theme=frame&no-frame=true"/>
   </a>
 </p>
