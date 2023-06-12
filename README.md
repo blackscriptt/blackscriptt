@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackscriptt&show_icons=true&locale=en" alt="blackscriptt" /></p>
 
-<p width="100%"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackscriptt&" alt="blackscriptt" /></p>
+<p width="100%"><img align="center" width="100%" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=blackscriptt&" alt="blackscriptt" /></p>
