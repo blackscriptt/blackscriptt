@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Black Script</h1>
-<h3 align="center">I'm a junior frontend developer</h3>
+<h3 align="center">junior front-end developer</h3>
 
 <img src='https://github.com/blackscriptt/blackscriptt/assets/111915039/78eb4768-236f-44f3-8b76-fca4fb081387' width='200' alt='keyboard coding' align='right'>
 
