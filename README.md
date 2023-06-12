@@ -16,9 +16,7 @@
   <a  href="https://github.com/ryo-ma/github-profile-trophy">
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=blackscriptt&column=8&theme=frame&no-frame=true"/>
   </a>
-
 </p>
-
 
 <br>
 
@@ -41,24 +39,12 @@
 
 <br>
 
-<p>
-  <img align="center" width="100%" height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=blackscriptt&" alt="blackscriptt" />
-  <br> <br>
-  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=blackscriptt&show_icons=true&locale=en" alt="blackscriptt" />
-  <img align="right" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackscriptt&show_icons=true&locale=en&layout=compact" alt="blackscriptt" />
-</p>
+
+<img align="center" width="100%" height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=blackscriptt&" alt="blackscriptt" />
+
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
+<p>
+  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=blackscriptt&show_icons=true&locale=en" alt="blackscriptt" />
+  <img align="right" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackscriptt&show_icons=true&locale=en&layout=compact" alt="blackscriptt" />
+</p> 
