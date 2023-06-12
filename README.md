@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://blackscriptt.github.io/web-homework/](https://blackscriptt.github.io/web-homework/)
+- 👨‍💻 All of my projects are available at [https://blackscriptt.github.io/web-homework/](blackscriptt.github.io/web-homework)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
