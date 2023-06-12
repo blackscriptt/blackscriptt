@@ -3,7 +3,7 @@
 
 <img src='https://github.com/blackscriptt/blackscriptt/assets/111915039/78eb4768-236f-44f3-8b76-fca4fb081387' width='200' alt='keyboard coding' align='right'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackscriptt&label=Profile%20views&color=0e75b6&style=flat" alt="blackscriptt" /> </p>
+alt="blackscriptt" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
@@ -13,8 +13,8 @@
 
 <h3>🏆 Github Profile Trophy</h3>
 <p width="100%" align="center">
-  <a width="100%" align="center"  href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 align="center" src="https://github-profile-trophy.vercel.app/?username=blackscriptt&column=8&theme=frame&no-frame=true"/>
+  <a width="100%" align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="700" src="https://github-profile-trophy.vercel.app/?username=blackscriptt&column=8&theme=frame&no-frame=true"/>
   </a>
 </p>
 
