@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Black Script</h1>
 <h3 align="center">I'm a junior frontend developer</h3>
 
-
-![keyboard](https://github.com/blackscriptt/blackscriptt/assets/111915039/78eb4768-236f-44f3-8b76-fca4fb081387)
-
 <img src='https://github.com/blackscriptt/blackscriptt/assets/111915039/78eb4768-236f-44f3-8b76-fca4fb081387' width='300' alt='keyboard coding' align='right'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackscriptt&label=Profile%20views&color=0e75b6&style=flat" alt="blackscriptt" /> </p>
