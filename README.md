@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Black Script</h1>
 <h3 align="center">I'm a junior frontend developer</h3>
 
-<img src='https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=1380&t=st=1686598699~exp=1686599299~hmac=29310c720c53f7125725149cc6e45a2e94b7efdc950177379fb73be93efebb83' width='300' alt='keyboard coding' align='right'>
+
+![keyboard](https://github.com/blackscriptt/blackscriptt/assets/111915039/78eb4768-236f-44f3-8b76-fca4fb081387)
+
+<img src='https://github.com/blackscriptt/blackscriptt/assets/111915039/78eb4768-236f-44f3-8b76-fca4fb081387' width='300' alt='keyboard coding' align='right'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackscriptt&label=Profile%20views&color=0e75b6&style=flat" alt="blackscriptt" /> </p>
 
