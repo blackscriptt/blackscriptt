@@ -23,4 +23,4 @@
   &nbsp;<img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=blackscriptt&show_icons=true&locale=en" alt="blackscriptt" />
 </p>
 
-<p><img align="right" width="500" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=blackscriptt&" alt="blackscriptt" /></p>
+<p><img align="center" width="500" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=blackscriptt&" alt="blackscriptt" /></p>
