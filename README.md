@@ -42,8 +42,6 @@
 
 <img align="center" width="100%" height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=blackscriptt&" alt="blackscriptt" />
 
-<br>
-
 <p>
   <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=blackscriptt&show_icons=true&locale=en" alt="blackscriptt" />
   <img align="right" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackscriptt&show_icons=true&locale=en&layout=compact" alt="blackscriptt" />
