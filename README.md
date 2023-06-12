@@ -18,7 +18,8 @@
 
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackscriptt&show_icons=true&locale=en&layout=compact" alt="blackscriptt" />
-
+  </p>
+<p>
   &nbsp;<img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=blackscriptt&show_icons=true&locale=en" alt="blackscriptt" />
 </p>
 
